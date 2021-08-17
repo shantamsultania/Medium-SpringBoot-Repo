@@ -5,8 +5,7 @@ This Repository contains all the Code for [My Medium page](https://medium.com/@u
 
 Article 1 
 
-How to Setup Spring boot for Gradle. 
-
+How to Setup Java - Spring boot using Gradle in Intellij community edition
 
 About me :
 
