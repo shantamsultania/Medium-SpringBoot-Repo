@@ -10,8 +10,7 @@ How to Setup Java - Spring boot using Gradle in Intellij community edition
 About me :
 
 
-Hi my name is Shantam i am A Java and Python Developer, I love to contribute and learn new Technologies. 
-
+Hi, my name is Shantam I am a Java and Python Developer, and I love to contribute and learn new technologies. 
 you can find me on [LinkedIn](https://www.linkedin.com/in/shantam-sultania-737084175/)
 
 Thanks for the visit 
