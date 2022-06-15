@@ -1,13 +1,13 @@
 # Medium-SpringBoot-Repo
 
-This Repository contains all the Code for [My Medium page](https://medium.com/@unknown.underme) 
+This Repository contains all the Java based code for [My Medium page](https://medium.com/@unknown.underme) 
 
 
-Article 1 
+### Article 1 
 
 How to Setup Java - Spring boot using Gradle in Intellij community edition
 
-About me :
+#### About me :
 
 
 Hi, my name is Shantam I am a Java and Python Developer, and I love to contribute and learn new technologies. 
